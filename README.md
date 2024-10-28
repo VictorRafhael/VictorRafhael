@@ -4,7 +4,7 @@
 - 💞️ I try to collaborate in activities that can add value
 - 📫 How to reach me: victorafhael2016@gmail.com
 - 😄 Pronouns: he/him
-- - ⚡ Fun fact: none
+- ⚡ Fun fact: none
 
 <!---
 VictorRafhael/VictorRafhael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
